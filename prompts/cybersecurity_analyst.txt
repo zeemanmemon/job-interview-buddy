@@ -1,0 +1,5 @@
+How do you identify and respond to a data breach?
+What is your experience with vulnerability scanning tools?
+How do you stay current with emerging threats?
+Explain a time you educated a non-technical team about security risks.
+How do you secure an endpoint device?

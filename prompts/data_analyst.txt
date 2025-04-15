@@ -1,0 +1,10 @@
+How do you handle missing data?
+What tools do you use for data visualization?
+Describe a project where you used SQL extensively.
+Explain a time you translated data into business insights.
+What is your process for cleaning and preparing data?
+How do you handle missing data?
+What tools do you use for data visualization?
+Describe a project where you used SQL extensively.
+Explain a time you translated data into business insights.
+What is your process for cleaning and preparing data?

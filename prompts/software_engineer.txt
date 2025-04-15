@@ -1,0 +1,5 @@
+Tell me about a challenging bug you fixed.
+How do you ensure code quality in a team?
+Describe your experience with version control systems.
+How do you approach system design?
+How do you stay updated with new technologies?
